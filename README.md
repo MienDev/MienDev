@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[MienWork2022](https://github.com/users/MienDev/projects/1)
-
-[SmartLockIssueTrack](https://github.com/MienDev/SmartLockIssueTrack/issues)
+[MienWork2022](https://github.com/users/MienDev/projects/1) | [SmartLockIssueTrack](https://github.com/MienDev/SmartLockIssueTrack/issues)
