@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[MienDo2024](https://github.com/users/MienDev/projects/1](https://github.com/users/MienDev/projects/13)) 
-
-[MienGrowth](https://github.com/MienDev/MienGrowth/issues)
+[**MienWork2024**｜工作待办](https://github.com/users/MienDev/projects/13)  |   [**MienGrowth** | 个人学习](https://github.com/MienDev/MienGrowth/issues)
